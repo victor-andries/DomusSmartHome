@@ -1,5 +1,5 @@
 # DomusSmartHome
-Domus Smart Home is an integrated home automation project using a Raspberry Pi. The project manages multiple sensors and devices including an HC-SR04 ultrasonic sensor, DHT11 temperature and humidity sensor, a DC motor with L293N H-bridge, a buzzer, and a Yeelight smart bulb. Communication between the Raspberry Pi and the Flutter application is achieved via MQTT using the HiveMQ cloud service. Additionally, the project includes an Alexa Skill Set for voice control through an Alexa Echo device.
+Domus Smart Home is an integrated home automation project using a Raspberry Pi. The project manages multiple sensors and devices including an HC-SR04 ultrasonic sensor, DHT11 temperature and humidity sensor, a DC motor with L293N H-bridge, a buzzer, and a Yeelight smart bulb. Communication between the Raspberry Pi and the Flutter application is achieved via MQTT using the HiveMQ cloud service. Additionally, the project includes an Alexa Skill Set for voice control through an Alexa Echo device. Also the login and registration steps are handled by a User Database made with MongoDB.
 
 # Overview
 The Domus Smart Home project provides a robust solution for home automation. The system uses a Raspberry Pi to interface with various sensors and devices, enabling control via a Flutter mobile application and voice commands through Alexa.
