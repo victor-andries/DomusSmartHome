@@ -42,10 +42,3 @@ The Domus Smart Home project provides a robust solution for home automation. The
 ## Solution Architecture
 
 ![domus](https://github.com/user-attachments/assets/c532ed48-35a5-45d9-a73f-e1e12f162d98)
-
-## Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/DomusSmartHome.git
-   cd DomusSmartHome
