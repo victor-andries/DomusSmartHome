@@ -34,7 +34,7 @@ Flutter (for mobile and web application development)
 
 # Solution Arhitecture
 
-![image](https://github.com/user-attachments/assets/13e7037d-312f-45db-aa27-f7895387043c)
+![domus](https://github.com/user-attachments/assets/c532ed48-35a5-45d9-a73f-e1e12f162d98)
 
 
 
