@@ -1,0 +1,27 @@
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+
+com:
+  amazon:
+    ask:
+      servlet:
+        disableRequestSignatureCheck: true
+    speech:
+      speechlet:
+        servlet:
+          timestampTolerance: 3600000
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/DomusDatabase
+
+javax:
+  net:
+    ssl:
+      keyStore: mytruststore.jks
+      keyStorePassword: Alexa2024
